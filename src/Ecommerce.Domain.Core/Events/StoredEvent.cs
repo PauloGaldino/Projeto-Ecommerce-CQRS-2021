@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ecommerce.Domain.Core.Events
+{
+    public class StoredEvent : Event
+    {
+        public StoredEvent(Event theEvent, string data,  string user)
+        {
+            Id = Guid.NewGuid();
+            AggregateId = theEvent.IggregateId;
+            MessageType = theEvent.MessageType;
+            Data = data;
+            User = user;
+        }
+
+        //EF COnstructor
+        protected StoredEvent() { }
+
+        public Guid Id { get; set; }
+
+        public string Data { get; set; }
+
+        public string User { get; set; }
+
+    }
+}
