@@ -34,7 +34,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
+                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
+              },
+              "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
+                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -46,6 +53,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.ComponentModel.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
