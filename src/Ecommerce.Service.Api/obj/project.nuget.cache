@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kP9oCavjv4ANkPtniZ5rg9+Ci9qdk1wvskAoxlTHtjTVpvOuWR26keoJvEO990Faz9h27qwee5uJ/XaziXtnyw==",
+  "success": true,
+  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Service.Api\\Ecommerce.Service.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
