@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ecommerce.Domain.Core.Models
 {
     public abstract class Entity
     {
-       
+
         public Guid Id { get; protected set; }
 
         public override bool Equals(object obj)
@@ -34,9 +30,9 @@ namespace Ecommerce.Domain.Core.Models
 
         public static bool operator !=(Entity a, Entity b)
         {
-           
+
             return !(a == b);
-                    
+
         }
 
         public override int GetHashCode()
