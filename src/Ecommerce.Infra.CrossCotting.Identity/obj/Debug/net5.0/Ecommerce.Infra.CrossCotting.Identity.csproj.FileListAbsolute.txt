@@ -10,3 +10,13 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\ref\Ecommerce.Infra.CrossCotting.Identity.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.pdb
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.runtimeconfig.json
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.runtimeconfig.dev.json
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Domain.Core.dll
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Domain.dll
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.dll
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Domain.pdb
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.pdb
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.csproj.CopyComplete
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.genruntimeconfig.cache
