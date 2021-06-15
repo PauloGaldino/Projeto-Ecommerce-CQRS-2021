@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Enuns\" />
-    <Folder Include="Bus\" />
   </ItemGroup>
 
   <ItemGroup>
