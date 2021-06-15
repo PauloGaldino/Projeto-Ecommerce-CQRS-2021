@@ -2,6 +2,12 @@
 
 namespace Ecommerce.Domain.Core.Models
 {
+    /// <summary>
+    /// Classe reponsável por 
+    /// propiedades genéircas
+    /// para serem herdads por outras classes do 
+    /// Dominio
+    /// </summary>
     public abstract class Entity
     {
 
