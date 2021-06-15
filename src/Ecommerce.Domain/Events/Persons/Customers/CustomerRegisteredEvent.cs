@@ -1,11 +1,11 @@
-﻿using Ecommerce.Domain.Core.Models;
+﻿using Ecommerce.Domain.Core.Events;
 using System;
 
-namespace Ecommerce.Domain.Models.Persons.Customers
+namespace Ecommerce.Domain.Events.Persons.Customers
 {
-    public class Customer : Entity
+    public class CustomerRegisteredEvent : Event
     {
-        public Customer(Guid id, string name, string email, DateTime birthDate)
+        public CustomerRegisteredEvent(Guid id, string name, string email, DateTime birthDate)
         {
             Id = id;
             Name = name;
@@ -13,8 +13,7 @@ namespace Ecommerce.Domain.Models.Persons.Customers
             BirthDate = birthDate;
         }
 
-        // Empty constructor for EF
-        protected Customer() { }
+        public Guid Id { get; set; }
 
         public string Name { get; private set; }
 

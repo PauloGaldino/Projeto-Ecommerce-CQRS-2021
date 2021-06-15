@@ -1,9 +1,5 @@
 ﻿using Ecommerce.Domain.Core.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ecommerce.Domain.Models.ProdutctEntity
 {
@@ -16,7 +12,7 @@ namespace Ecommerce.Domain.Models.ProdutctEntity
             Value = value;
             State = state;
         }
-        
+
         //EF contrutor vazio
         protected Product() { }
 
