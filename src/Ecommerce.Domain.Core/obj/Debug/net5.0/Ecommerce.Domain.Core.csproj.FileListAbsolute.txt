@@ -2,7 +2,6 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\bin\Debug\net5.0\Ecommerce.Domain.Core.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\bin\Debug\net5.0\ref\Ecommerce.Domain.Core.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\obj\Debug\net5.0\Ecommerce.Domain.Core.csprojAssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\obj\Debug\net5.0\Ecommerce.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\obj\Debug\net5.0\Ecommerce.Domain.Core.AssemblyInfoInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain.Core\obj\Debug\net5.0\Ecommerce.Domain.Core.AssemblyInfo.cs
