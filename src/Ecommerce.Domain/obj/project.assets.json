@@ -222,6 +222,10 @@
       "Ecommerce.Infra.CrossCutting.Bus/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Ecommerce.Domain.Core": "1.0.0",
+          "MediatR": "9.0.0"
+        },
         "compile": {
           "bin/placeholder/Ecommerce.Infra.CrossCutting.Bus.dll": {}
         },

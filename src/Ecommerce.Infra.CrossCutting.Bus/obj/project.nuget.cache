@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "DMe1z+iEoH3AFnHQK6VPkjk+8MLK1tLVBxO1jhoF5zmCZSjkTq1NWz7lbH4K7C19A1CEO/2g5hHNLn0WHi0lFg==",
+  "dgSpecHash": "tH9RtJtfmWBw11KeRECyy3CMgCimtL8XfKSz2yaErHJKvrfc/XPf66fB0LeCKabqAluLYWmZFtS1ZpTrhyStww==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
