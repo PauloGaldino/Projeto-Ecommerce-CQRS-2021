@@ -6,8 +6,7 @@
 
   <ItemGroup>
     <Folder Include="CommandHandlers\" />
-    <Folder Include="Commands\" />
-    <Folder Include="Validations\" />
+    <Folder Include="Commands\Products\" />
   </ItemGroup>
 
   <ItemGroup>

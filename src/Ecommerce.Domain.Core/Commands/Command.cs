@@ -4,7 +4,7 @@ using System;
 
 namespace Ecommerce.Domain.Core.Commands
 {
-    public abstract class Command : Event
+    public abstract class Command : Message
     {
         protected Command()
         {
