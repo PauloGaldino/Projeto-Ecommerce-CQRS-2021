@@ -13,7 +13,7 @@ namespace Ecommerce.Domain.Models.ProdutctEntity
             State = state;
         }
 
-        //EF contrutor vazio
+        //EF construtor vazio
         protected Product() { }
 
         public string Name { get; private set; }

@@ -27,7 +27,7 @@ namespace Ecommerce.Domain.Core.Notifications
             return _notifications;
         }
 
-        public virtual bool HasNotification()
+        public virtual bool HasNotifications()
         {
             return GetNotifications().Any();
         }
