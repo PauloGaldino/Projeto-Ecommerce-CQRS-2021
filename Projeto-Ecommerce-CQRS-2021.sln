@@ -23,31 +23,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Infra.Datas", "5.1 - 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - Infra.CrossCuttings", "5.2 - Infra.CrossCuttings", "{6041020C-60A6-445E-B183-4AF9D3E2C161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Domain.Core", "src\Ecommerce.Domain.Core\Ecommerce.Domain.Core.csproj", "{656D5821-3356-414C-A12E-43EE0C962BDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Domain.Core", "src\Ecommerce.Domain.Core\Ecommerce.Domain.Core.csproj", "{656D5821-3356-414C-A12E-43EE0C962BDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Domain", "src\Ecommerce.Domain\Ecommerce.Domain.csproj", "{66FEE6DA-263D-411C-A464-5A8C4F903555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Domain", "src\Ecommerce.Domain\Ecommerce.Domain.csproj", "{66FEE6DA-263D-411C-A464-5A8C4F903555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infra.Data", "src\Ecommerce.Infra.Data\Ecommerce.Infra.Data.csproj", "{B9F75151-16AC-4751-AA31-9792BD5B6898}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Infra.Data", "src\Ecommerce.Infra.Data\Ecommerce.Infra.Data.csproj", "{B9F75151-16AC-4751-AA31-9792BD5B6898}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2.1 - Infra.CrossCutting.Bus", "5.2.1 - Infra.CrossCutting.Bus", "{CF78FDA1-1771-4D18-83B8-024FF26E057D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2.2 - CInfra.rossCutting.Identity", "5.2.2 - CInfra.rossCutting.Identity", "{DC69F70A-2146-4D15-B15B-8085EFF6DAB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infra.CrossCutting.Bus", "src\Ecommerce.Infra.CrossCutting.Bus\Ecommerce.Infra.CrossCutting.Bus.csproj", "{2FEBFB4C-B6C2-4B26-8F5E-58ED661F66C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Infra.CrossCutting.Bus", "src\Ecommerce.Infra.CrossCutting.Bus\Ecommerce.Infra.CrossCutting.Bus.csproj", "{2FEBFB4C-B6C2-4B26-8F5E-58ED661F66C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infra.CrossCotting.Identity", "src\Ecommerce.Infra.CrossCotting.Identity\Ecommerce.Infra.CrossCotting.Identity.csproj", "{AA7F675C-4E38-4CF9-BC54-3665B0053EA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Infra.CrossCotting.Identity", "src\Ecommerce.Infra.CrossCotting.Identity\Ecommerce.Infra.CrossCotting.Identity.csproj", "{AA7F675C-4E38-4CF9-BC54-3665B0053EA6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2.3 - Infra.CrossCutting.IoC", "5.2.3 - Infra.CrossCutting.IoC", "{FAF85E9F-52EB-4AD0-A161-8587CA39D1FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Infra.CrossCutting.IoC", "src\Ecommerce.Infra.CrossCutting.IoC\Ecommerce.Infra.CrossCutting.IoC.csproj", "{9BF6263A-C732-4226-B0AC-17DD087C0FBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Infra.CrossCutting.IoC", "src\Ecommerce.Infra.CrossCutting.IoC\Ecommerce.Infra.CrossCutting.IoC.csproj", "{9BF6263A-C732-4226-B0AC-17DD087C0FBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Application", "src\Ecommerce.Application\Ecommerce.Application.csproj", "{4A0487C7-684E-4BCA-A5D0-37D308EE8D59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Application", "src\Ecommerce.Application\Ecommerce.Application.csproj", "{4A0487C7-684E-4BCA-A5D0-37D308EE8D59}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentations", "1 - Presentations", "{A509852B-ACAA-4A3A-900F-59671C956B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Ui.Web", "src\Ecommerce.Ui.Web\Ecommerce.Ui.Web.csproj", "{C2585C90-8F3E-4CF5-A0B1-B095213691AD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Service.Api", "src\Ecommerce.Service.Api\Ecommerce.Service.Api.csproj", "{BE897382-FF6E-4D6B-B0A6-CBE96653F746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Service.Api", "src\Ecommerce.Service.Api\Ecommerce.Service.Api.csproj", "{BE897382-FF6E-4D6B-B0A6-CBE96653F746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,10 +81,6 @@ Global
 		{4A0487C7-684E-4BCA-A5D0-37D308EE8D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A0487C7-684E-4BCA-A5D0-37D308EE8D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A0487C7-684E-4BCA-A5D0-37D308EE8D59}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C2585C90-8F3E-4CF5-A0B1-B095213691AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2585C90-8F3E-4CF5-A0B1-B095213691AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2585C90-8F3E-4CF5-A0B1-B095213691AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2585C90-8F3E-4CF5-A0B1-B095213691AD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BE897382-FF6E-4D6B-B0A6-CBE96653F746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE897382-FF6E-4D6B-B0A6-CBE96653F746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE897382-FF6E-4D6B-B0A6-CBE96653F746}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -115,7 +109,6 @@ Global
 		{9BF6263A-C732-4226-B0AC-17DD087C0FBB} = {FAF85E9F-52EB-4AD0-A161-8587CA39D1FE}
 		{4A0487C7-684E-4BCA-A5D0-37D308EE8D59} = {BD42C400-5AC8-4181-ACA5-A1B13F49D143}
 		{A509852B-ACAA-4A3A-900F-59671C956B71} = {CC024C45-DC35-466D-ACF5-A73E1DD4D215}
-		{C2585C90-8F3E-4CF5-A0B1-B095213691AD} = {A509852B-ACAA-4A3A-900F-59671C956B71}
 		{BE897382-FF6E-4D6B-B0A6-CBE96653F746} = {CAAA5A67-FDC8-41B8-9C22-8351B262F650}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

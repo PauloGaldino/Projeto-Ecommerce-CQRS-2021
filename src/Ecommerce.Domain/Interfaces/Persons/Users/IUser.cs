@@ -5,7 +5,7 @@ namespace Ecommerce.Domain.Interfaces.Persons.Users
 {
     public interface IUser
     {
-        string Nmae { get; }
+        string Name { get; }
 
         bool IsAuthenticated();
 
