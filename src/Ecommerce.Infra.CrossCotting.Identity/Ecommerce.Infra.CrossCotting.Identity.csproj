@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Authorizations\" />
     <Folder Include="Data\" />
     <Folder Include="Extentions\" />
     <Folder Include="Models\" />
