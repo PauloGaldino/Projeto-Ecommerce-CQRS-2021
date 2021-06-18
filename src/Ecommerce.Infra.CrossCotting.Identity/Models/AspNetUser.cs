@@ -1,11 +1,7 @@
 ﻿using Ecommerce.Domain.Interfaces.Persons.Users;
 using Microsoft.AspNetCore.Http;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Security.Claims;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ecommerce.Infra.CrossCotting.Identity.Models
 {

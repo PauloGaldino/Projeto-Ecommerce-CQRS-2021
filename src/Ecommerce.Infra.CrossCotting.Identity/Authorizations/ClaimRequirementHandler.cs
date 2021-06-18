@@ -1,8 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Ecommerce.Infra.CrossCotting.Identity.Authorizations
@@ -13,7 +10,7 @@ namespace Ecommerce.Infra.CrossCotting.Identity.Authorizations
         {
             var claim = context.User.Claims.FirstOrDefault(c => c.Type == requirement.ClaimName);
 
-            if(claim == null && claim.Value.Contains(requirement.ClaimValue))
+            if (claim == null && claim.Value.Contains(requirement.ClaimValue))
             {
                 context.Succeed(requirement);
             }

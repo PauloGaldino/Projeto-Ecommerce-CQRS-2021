@@ -3,11 +3,11 @@ using Ecommerce.Infra.Data.Contexts;
 
 namespace Ecommerce.Infra.Data.UoW
 {
-    public class UintOfWork : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly EcommerceDbContext _context;
 
-        public UintOfWork(EcommerceDbContext context)
+        public UnitOfWork(EcommerceDbContext context)
         {
             _context = context;
         }
