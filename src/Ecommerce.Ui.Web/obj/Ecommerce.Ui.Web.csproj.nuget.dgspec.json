@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Ui.Web\\Ecommerce.Ui.Web.csproj": {}
+    "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj": {}
   },
   "projects": {
     "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
@@ -614,14 +614,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Ui.Web\\Ecommerce.Ui.Web.csproj": {
+    "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Ui.Web\\Ecommerce.Ui.Web.csproj",
-        "projectName": "Ecommerce.Ui.Web",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Ui.Web\\Ecommerce.Ui.Web.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
+        "projectName": "Ecommerce.UI.Web",
+        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Ui.Web\\obj\\",
+        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -687,14 +687,6 @@
               "target": "Package",
               "version": "[5.0.7, )"
             },
-            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
-              "target": "Package",
-              "version": "[5.0.7, )"
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.7, )"
@@ -710,6 +702,10 @@
             "Microsoft.VisualStudio.Web.BrowserLink.Loader": {
               "target": "Package",
               "version": "[14.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [

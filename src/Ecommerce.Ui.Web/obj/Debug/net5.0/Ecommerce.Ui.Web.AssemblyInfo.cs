@@ -12,13 +12,13 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Ecommerce.Ui.Web-CE1A5C51-9F81-47BA-A3E4-1D381910A9D5")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerce.Ui.Web")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Ecommerce.UI.Web-08F55E29-C6A0-4827-9D6C-4A21912E10E5")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerce.UI.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ecommerce.Ui.Web")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ecommerce.Ui.Web")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ecommerce.UI.Web")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ecommerce.UI.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

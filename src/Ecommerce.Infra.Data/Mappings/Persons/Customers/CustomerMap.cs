@@ -23,6 +23,10 @@ namespace Ecommerce.Infra.Data.Mappings.Persons.Customers
                 .HasColumnType("varchar(100)")
                 .HasMaxLength(100)
                 .IsRequired();
+
+            builder.Property(c => c.BirthDate)
+               .HasColumnName("DataNascimento")
+               .IsRequired();
         }
     }
 }

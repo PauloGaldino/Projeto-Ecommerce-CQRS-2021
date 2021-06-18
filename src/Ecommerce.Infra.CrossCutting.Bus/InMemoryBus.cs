@@ -19,7 +19,7 @@ namespace Ecommerce.Infra.CrossCutting.Bus
         public InMemoryBus(IMediator mediator, IEventStore eventStore)
         {
             _mediator = mediator;
-            _eventStore = eventStore
+            _eventStore = eventStore;
         }
 
         public Task RaiseEvent<T>(T @event) where T : Event
