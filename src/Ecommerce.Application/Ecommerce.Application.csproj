@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="AutoMappers\" />
     <Folder Include="EventSourcedNormalizers\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Services\" />
