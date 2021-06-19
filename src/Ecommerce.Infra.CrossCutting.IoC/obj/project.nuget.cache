@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aKtKTjSWUrTy/P7mTUkNxBkX/BktXCaiIME2ejf6ZmXVgqToOKcyCrKjvZP0/AMhvWizFQO/JxtjS9nwey7EeA==",
+  "dgSpecHash": "Ucpi9Lna4uF8tAbwvP43yYjSKDtIh/QKuqp503KKSheJ4n+iB+4eD9VeozVJjuOvY98QAKhLyu7fBReORBr51g==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [

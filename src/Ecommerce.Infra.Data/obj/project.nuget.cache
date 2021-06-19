@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ELY5f5BHtF1LAq34dDwKWnTlnJCMU1efv9TdEAktwAv3uNPuocWECqxprbK0YwrsAVxkry5aLUVLLfu7QgTubQ==",
+  "dgSpecHash": "2dHvP+Q/Qg60lgAD5iP7TIfPQd0d02OdUty0Gy1DP5lkUF66KrGvK8R03ZZGkgmEw+vb2Mbr8uLaCmbHebfLAw==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
   "expectedPackageFiles": [

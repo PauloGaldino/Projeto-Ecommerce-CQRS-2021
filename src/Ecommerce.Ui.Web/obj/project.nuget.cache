@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "k5j7l6qlOI8fpKhVPorfmD+W0C/SvMPPWuoTsaA7ilZZP2IG2baaXq6IALhjMMP7vdiOXiNax4lMTr4u3nrqrQ==",
+  "dgSpecHash": "Qyd73naNrY4g5GKnRuLGNt2MtjwVR2lV0Wv38ghaR5nMQm52UEwACcqrI+yp+QdCRUoexF/IJmVHvR9fvvADtw==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
   "expectedPackageFiles": [
@@ -225,7 +225,8 @@
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }
