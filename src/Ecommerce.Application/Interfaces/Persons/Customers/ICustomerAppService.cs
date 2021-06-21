@@ -1,4 +1,5 @@
-﻿using Ecommerce.Application.ViewModels.Persons.Customers;
+﻿using Ecommerce.Application.EventSourcedNormalizers.Persons.Customers;
+using Ecommerce.Application.ViewModels.Persons.Customers;
 using System;
 using System.Collections.Generic;
 using System.Linq;

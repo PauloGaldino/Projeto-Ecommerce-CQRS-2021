@@ -1,3 +1,4 @@
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\Ecommerce.UI.Web.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\Ecommerce.UI.Web.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\Ecommerce.UI.Web.AssemblyInfoInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\Ecommerce.UI.Web.AssemblyInfo.cs
@@ -159,7 +160,6 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\bin\Debug\net5.0\Ecommerce.Infra.Data.pdb
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\Ecommerce.UI.Web.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\Ecommerce.UI.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\staticwebassets\Ecommerce.UI.Web.StaticWebAssets.Manifest.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.UI.Web\obj\Debug\net5.0\staticwebassets\Ecommerce.UI.Web.StaticWebAssets.xml

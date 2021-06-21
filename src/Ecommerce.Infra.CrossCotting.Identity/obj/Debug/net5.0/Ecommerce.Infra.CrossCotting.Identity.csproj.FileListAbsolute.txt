@@ -1,7 +1,3 @@
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.GeneratedMSBuildEditorConfig.editorconfig
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.AssemblyInfoInputs.cache
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.AssemblyInfo.cs
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.csproj.CoreCompileInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.deps.json
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.runtimeconfig.json
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.runtimeconfig.dev.json
@@ -15,6 +11,10 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.csproj.AssemblyReference.cache
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.AssemblyInfoInputs.cache
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.AssemblyInfo.cs
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.csproj.CoreCompileInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.csproj.CopyComplete
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\Ecommerce.Infra.CrossCotting.Identity.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCotting.Identity\obj\Debug\net5.0\ref\Ecommerce.Infra.CrossCotting.Identity.dll

@@ -1,3 +1,4 @@
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.AssemblyInfo.cs
@@ -18,7 +19,6 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\bin\Debug\net5.0\Ecommerce.Infra.Data.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.pdb
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.csproj.CopyComplete
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\Ecommerce.Infra.CrossCutting.IoC.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.IoC\obj\Debug\net5.0\ref\Ecommerce.Infra.CrossCutting.IoC.dll

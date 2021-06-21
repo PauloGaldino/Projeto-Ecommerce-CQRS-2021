@@ -1,3 +1,4 @@
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.AssemblyInfoInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.AssemblyInfo.cs
@@ -151,7 +152,6 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Servic
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\bin\Debug\net5.0\Ecommerce.Domain.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\bin\Debug\net5.0\Ecommerce.Infra.Data.pdb
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.RazorTargetAssemblyInfo.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Service.Api\obj\Debug\net5.0\Ecommerce.Service.Api.csproj.CopyComplete

@@ -6,6 +6,7 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Domain.Core.pdb
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Infra.CrossCutting.Bus.pdb
+D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.csproj.AssemblyReference.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.AssemblyInfoInputs.cache
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.AssemblyInfo.cs
@@ -14,4 +15,3 @@ D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\ref\Ecommerce.Domain.dll
 D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.pdb
-D:\PROJETOS\GITHUB\PauloGaldino\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.csproj.AssemblyReference.cache

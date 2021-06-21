@@ -1,4 +1,5 @@
-﻿using Ecommerce.Application.ViewModels.Products;
+﻿using Ecommerce.Application.EventSourcedNormalizers.Products;
+using Ecommerce.Application.ViewModels.Products;
 using System;
 using System.Collections.Generic;
 using System.Linq;
