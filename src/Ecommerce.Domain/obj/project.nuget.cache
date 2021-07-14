@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "97dmaK6nwEU0mRLSbztEMUc0NuCJkOODaWrqFdTjgs9bVRYJN5+VQA6OoIH43iSMFyyRSwbZIGl+XZqzzronLA==",
+  "dgSpecHash": "kUGdW1NVRJ5H9R0+3+lIwsmolvSqWIzbyVd3sDjw9FprwN35rF6AbeWylo6gV+5dueziLbz5+doP0uJeuhVCTw==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [

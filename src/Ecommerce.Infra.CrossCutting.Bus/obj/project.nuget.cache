@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CaIHRl8e5l/s2f8Eno1Dtl2oL1ZhxLTf3PYUq4ghv+RXKZphZf+HhOhYkioDinZieEbYyvFeyM2KQqAReCf9Qw==",
+  "dgSpecHash": "YAhGWMHERTV0RaKqkWuVodip4zTcQell2v5J3zmLN+7s8eSAr9kt5h5ZpiqyBwxc2nNzJ7MvcfuAQAzWA/X9NQ==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
   "expectedPackageFiles": [

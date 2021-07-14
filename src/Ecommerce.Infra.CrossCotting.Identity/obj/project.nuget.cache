@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6kDgJnpmgInAG1blPZD3MgNjnMUgYIThPrjYg7MDbDW/XHqM8393dBiBi+axNoc5TzHjZP8GrhdKsVJqBov1/g==",
+  "dgSpecHash": "5LPFGsvGwl3J5FtAxki2Xq0BjqwhkhHgGLWP/Hit0nIXzid4KYgtPc/h9BvkPq3Ryyrb5T54D3VfB4AVTUkhCg==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
   "expectedPackageFiles": [
