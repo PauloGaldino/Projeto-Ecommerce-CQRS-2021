@@ -6275,11 +6275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "projectName": "Ecommerce.Application",
-      "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
+      "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
       "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\obj\\",
+      "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6303,11 +6303,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
-              "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
+            "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
+              "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
             },
-            "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
-              "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
+            "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
+              "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
             }
           }
         }

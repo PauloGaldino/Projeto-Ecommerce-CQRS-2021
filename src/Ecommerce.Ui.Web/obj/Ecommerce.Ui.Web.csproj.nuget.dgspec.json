@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj": {}
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj": {}
   },
   "projects": {
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "projectName": "Ecommerce.Application",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,11 +35,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj",
         "projectName": "Ecommerce.Domain.Core",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -161,14 +161,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -192,11 +192,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj"
               }
             }
           }
@@ -247,14 +247,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
         "projectName": "Ecommerce.Infra.CrossCotting.Identity",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -278,8 +278,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               }
             }
           }
@@ -362,14 +362,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
         "projectName": "Ecommerce.Infra.CrossCutting.Bus",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -393,8 +393,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj"
               }
             }
           }
@@ -433,14 +433,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
         "projectName": "Ecommerce.Infra.CrossCutting.IoC",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -464,17 +464,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj"
               }
             }
           }
@@ -513,14 +513,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
         "projectName": "Ecommerce.Infra.Data",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -544,8 +544,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               }
             }
           }
@@ -614,14 +614,14 @@
         }
       }
     },
-    "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj": {
+    "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
         "projectName": "Ecommerce.UI.Web",
-        "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
+        "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\Ecommerce.UI.Web.csproj",
         "packagesPath": "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\obj\\",
+        "outputPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.UI.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -645,14 +645,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj"
               },
-              "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj": {
-                "projectPath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj"
+              "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj"
               }
             }
           }

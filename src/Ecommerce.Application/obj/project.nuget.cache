@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwrM3apneLamYwlOoI3HVJ2pnVLbq8z3KoUbM6zZ4z2WpRLtW5kI0nFbaIvbySrNllMtshubHyOGtt8X8ULmDg==",
+  "dgSpecHash": "knGT44scGw3cd5a/+Q+h6BPUhGydeh0/EZPxPMTSZm2HBEPxv1RvfmNJfHCnSIMgEqIutjn1cia4A4G4ezgW0Q==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "projectFilePath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",

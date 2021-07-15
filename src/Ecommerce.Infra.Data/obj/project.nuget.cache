@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/23sJDNOlNOWcQimJ26jjyC3OCgj8V0LxnRlJ8FgsvWR8s8XbGquoY90QGiRPzwBIvG9DS6iLJxOf49jdZj9g==",
+  "dgSpecHash": "wbapP5TCXysUTOppEecvfaBa1CSyjOzvxw0gpCK3gn87Eg4brIHLqpzes0VVgpJtC5UDyA8qlcmh5YHoCZ4Eqw==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
+  "projectFilePath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.Data\\Ecommerce.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

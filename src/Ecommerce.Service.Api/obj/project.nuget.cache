@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7KEHDii8Uch5CuKwxRAbCQXFJ/5avo84tzdXplWUAr6hYDI+lb7NNw7HQnY21yZbSC43QRfLRMu/3j1UuacF5w==",
+  "dgSpecHash": "9kC/IdbocPK9QtM4gZ6Aibv0ICRLVYv9jPOLuMqghQJZ3QWCaZ7iLHkr/jWCGLp9I0Hhyqbq8PzRRuN8fbym+A==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Service.Api\\Ecommerce.Service.Api.csproj",
+  "projectFilePath": "D:\\PROJETOS\\CSHARP_2021\\VS\\WEB\\CQRS\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Service.Api\\Ecommerce.Service.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

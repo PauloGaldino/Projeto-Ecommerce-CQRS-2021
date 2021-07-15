@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommerce.Infra.CrossCutting.Bus
-build_property.ProjectDir = D:\PROJETOS\GITHUB\PauloGaldinoProjeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.Bus\
+build_property.ProjectDir = D:\PROJETOS\CSHARP_2021\VS\WEB\CQRS\Projeto-Ecommerce-CQRS-2021\src\Ecommerce.Infra.CrossCutting.Bus\
