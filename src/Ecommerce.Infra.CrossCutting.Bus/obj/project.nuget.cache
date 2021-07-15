@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YAhGWMHERTV0RaKqkWuVodip4zTcQell2v5J3zmLN+7s8eSAr9kt5h5ZpiqyBwxc2nNzJ7MvcfuAQAzWA/X9NQ==",
+  "dgSpecHash": "LnpYg5HnwzGFVi6l07NYvy7oi2waYYla8bHWBi2kZotqOwHvkO3mDlX08ce8dxs6wp5U8k6uS734TVXXQtMq7A==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
+  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.Bus\\Ecommerce.Infra.CrossCutting.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5LPFGsvGwl3J5FtAxki2Xq0BjqwhkhHgGLWP/Hit0nIXzid4KYgtPc/h9BvkPq3Ryyrb5T54D3VfB4AVTUkhCg==",
+  "dgSpecHash": "m3sxK/terhBAkfUufeAh4CVPADzAEDXJcnScIcnsgiQuLebmcc8ZPdr4nvCxlwa1O1utNownAJvpKV4o30tZrw==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
+  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCotting.Identity\\Ecommerce.Infra.CrossCotting.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

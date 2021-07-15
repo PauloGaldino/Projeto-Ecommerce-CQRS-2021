@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RcBohKnR9/SfMmlmW0z4E6q9DfhzAaRjclyh/4P6CPYSoYeFtaEDpxRXYacf6dPPVTuTbj8tq+G9nVqiwA83ZA==",
+  "dgSpecHash": "fhjtdIAAouSHzzUL1CjjVb8n0PSUfAksgwsbCTWiqs6A30upbXA2ojzFTCAbaufX3N49fq0oqfEqnQaE2xBCKQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj",
+  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Domain.Core\\Ecommerce.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

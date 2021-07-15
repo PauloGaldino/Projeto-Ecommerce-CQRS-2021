@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fhIodmufkS/nVXLbu1jwy7G4Q0/zUGj3KIQtlqXesJJC4QKT7W1dFsEGjHMIQ/6v/evRXUC0iMvzqH422N8wA==",
+  "dgSpecHash": "opcALfWEPbz1wNE3V3Spi2Bq44hLFyof8I82roqBPHSLJM13TKDjlzJVSy+Qi4lj/y/NfXmHFgR3wsiGgeZsyA==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldino\\Projeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
+  "projectFilePath": "D:\\PROJETOS\\GITHUB\\PauloGaldinoProjeto-Ecommerce-CQRS-2021\\src\\Ecommerce.Infra.CrossCutting.IoC\\Ecommerce.Infra.CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\JOSEPAULOGALDINO\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
